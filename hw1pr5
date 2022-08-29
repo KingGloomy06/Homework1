@@ -1,0 +1,23 @@
+State and surroundings is what pico bot knows
+
+example. (state 0) (surroundings xxWS) 
+
+  in terms of surroundings x means it's open and the NEWS means it's blocked
+
+Picobot instructions:
+
+  (current)state 0-99: surroundings in NEWS order
+  
+  for movement pico can move in N,E,W,S & X to stay
+  
+  new state can be any number 0-99
+  
+  9 rules for any given state
+  
+ shortcut:
+   try to get pico in the lower left corner
+   
+   wildcards help alot
+   
+   
+  Also # is comment helps get points for grades
